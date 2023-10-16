@@ -1,12 +1,12 @@
 body {
-    background-color: Coral;
+    background-color: Teal;
     color:black;
     font-size: 2em;
 }
 
 p {
     font-size: 1em;
-    color:red;
+    color:black;
 }
 h1{
     font-size:1em;
@@ -18,10 +18,10 @@ h2{
     color:blue
 }
 a {
-   color: red;
+   color: black;
 }
 a:link {
-    color: red;
+    color: black;
 }
 a:visited {
     color:blue;
