@@ -1,7 +1,23 @@
 body{
-    background-color:chartreuse;
-}
+    background-color: rgb(33, 64, 105);}
 h1{
     font-size:1em;
     text-align:center;
+    border-width:2em;
+
 }
+a {
+    color: white;
+ }
+ a:link {
+     color: black;
+ }
+ a:visited {
+     color:white;
+ }
+ a:hover {
+     color: black;
+ }
+ a:active {
+     color: black;
+ }
