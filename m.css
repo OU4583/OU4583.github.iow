@@ -3,11 +3,14 @@ body{
 h1{
     font-size:1em;
     text-align:center;
-    border-width:2em;
+    border-left:2px;
+    border-style:solid;
+    border-color:red;
 
 }
 a {
     color: white;
+    border-width:2px;
  }
  a:link {
      color: black;
