@@ -3,15 +3,12 @@ body{
 h1{
     font-size:1em;
     text-align:center;
-    border-width:2px;
-    border-left:2px;
-    border-style:solid;
-    border-color:red;
     
 
 }
 a {
     color: white;
+    text-decoration:none;
     
  }
  a:link {
@@ -22,6 +19,15 @@ a {
  }
  a:hover {
      color: black;
+     border-left-color:black;
+     border-left-width:2px;
+     border-left-style: solid;  
+     border-right-color:black;
+     border-right-width:2px;
+     border-right-style: solid;
+     border-bottom-color:black;
+     border-bottom-width:2px;
+     border-bottom-style: solid;
  }
  a:active {
      color: black;
