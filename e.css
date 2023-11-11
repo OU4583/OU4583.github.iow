@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(33, 64, 105);
+    color:black;
+    font-size: 1em;
+}
+
+h1{
+    font-size:1.5em;
+    text-align:center;
+    
+    
+    }
+h2{
+    font-size:5em;
+    text-align:center;
+    color:white
+}
+a {
+   color: white;
+   text-decoration:none;
+   border-bottom-color:white;
+     border-bottom-width:3px;
+     border-bottom-style: solid;
+   
+}
+a:link {
+    color: black;
+}
+a:visited {
+    color:lightblue;
+}
+a:hover {
+    color: black;
+     border-left-color:black;
+     border-left-width:2px;
+     border-left-style: solid;  
+     border-right-color:black;
+     border-right-width:2px;
+     border-right-style: solid;
+     border-bottom-color:black;
+     border-bottom-width:2px;
+     border-bottom-style: solid;
+}
+a:active {
+    color: black;
+}
