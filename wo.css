@@ -4,6 +4,11 @@ body {
     font-size: 1em;
 }
 
+p{
+    position:fixed;
+    bottom:0;
+}
+
 h1{
     font-size:1.5em;
     text-align:center;
