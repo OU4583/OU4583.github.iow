@@ -47,7 +47,7 @@ a {
    
 }
 a:link {
-    color: black;
+    color: lightblue;
 }
 a:visited {
     color:lightblue;
@@ -65,5 +65,5 @@ a:hover {
      border-bottom-style: solid;
 }
 a:active {
-    color: black;
+    color: lightblue;
 }
