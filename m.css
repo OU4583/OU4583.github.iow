@@ -1,6 +1,43 @@
 body{
     background-color: rgb(33, 64, 105);
 }
+*{
+   
+    box-sizing: border-box;
+}
+.image{
+    width:50%;
+    display:flex;
+    justify-content:left;
+    float: left;
+    display:inline;
+
+}
+.image img{
+    height:400px;
+    width:400px;
+    border-radius: 50%;
+    border:10px solid#fff;
+    
+
+}
+.i{
+    width:50%;
+    display:flex;
+    justify-content:center;
+    float:center;
+    display:inline;
+
+
+}
+.i img{
+    height:400px;
+    width:400px;
+    border-radius: 50%;
+    border:10px solid#fff;
+
+}
+
     
 h1{
     font-size:1.5em;
@@ -13,8 +50,8 @@ p{
     font-size: 25px;
 }
 h2{
-    padding-top:100px;
-    margin:200px;
+    padding-top:300px;
+    margin:100px;
     font-size:4.5em;
     color:lightblue;
     text-align:left;
