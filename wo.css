@@ -21,15 +21,20 @@ h2{
     color:white
 }
 h3{
-    text-align:left;
+    font-size:2em;
+    display:inline;
+    margin:210px;
+
 }
 h4{
-    text-align:center;
-
+    font-size:2em;
+    display:inline;
+    margin:210px;
 }
 h5{
-    text-align:right;
-
+    font-size:2em;
+    display:inline;
+    margin:205px;
 }
 a {
    color: white;
