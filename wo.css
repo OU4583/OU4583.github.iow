@@ -8,6 +8,19 @@ p{
     position:fixed;
     bottom:0;
 }
+.image{
+    width:100%;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+
+}
+.image img{
+    height:500px;
+    width:500px;
+    border-radius: 50%;
+    border:10px solid#fff;
+}
 
 h1{
     font-size:1.5em;
@@ -26,12 +39,6 @@ h3{
     display:inline;
     margin-top:200px;
     margin-left:300px;
-    border-left-color:black;
-     border-left-width:2px;
-     border-left-style: solid;  
-     border-right-color:black;
-     border-right-width:2px;
-     border-right-style: solid;
      border-bottom-color:black;
      border-bottom-width:2px;
      border-bottom-style: solid;
@@ -43,12 +50,6 @@ h4{
     display:inline;
     margin-top:200px;
     margin-left:800px;
-    border-left-color:black;
-     border-left-width:2px;
-     border-left-style: solid;  
-     border-right-color:black;
-     border-right-width:2px;
-     border-right-style: solid;
      border-bottom-color:black;
      border-bottom-width:2px;
      border-bottom-style: solid;
@@ -60,12 +61,6 @@ h5{
     display:inline;
     margin-top:200px;
     margin-left:1300px;
-    border-left-color:black;
-     border-left-width:2px;
-     border-left-style: solid;  
-     border-right-color:black;
-     border-right-width:2px;
-     border-right-style: solid;
      border-bottom-color:black;
      border-bottom-width:2px;
      border-bottom-style: solid;
