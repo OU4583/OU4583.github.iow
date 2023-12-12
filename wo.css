@@ -8,19 +8,15 @@ p{
     position:fixed;
     bottom:0;
 }
-.image{
-    width:100%;
-    display:flex;
-    justify-content:center;
-    align-items: center;
 
+img{
+    margin-left:70px;
+    padding-left:200px;
+    padding-top:300px;
+    display:flex;
+    display:inline;
 }
-.image img{
-    height:500px;
-    width:500px;
-    border-radius: 50%;
-    border:10px solid#fff;
-}
+
 
 h1{
     font-size:1.5em;
