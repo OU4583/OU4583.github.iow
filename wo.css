@@ -27,16 +27,17 @@ h1{
     
     }
 h2{
-    font-size:5em;
-    text-align:center;
-    color:white
+    position:absolute;
+    margin-top:420px;
+    margin-left:200px;
+    font-size:1em;
 }
 h3{
     position:absolute;
     font-size:2em;
     display:inline;
     margin-top:150px;
-    margin-left:300px;
+    margin-left:250px;
      border-bottom-color:black;
      border-bottom-width:2px;
      border-bottom-style: solid;
@@ -47,7 +48,7 @@ h4{
     font-size:2em;
     display:inline;
     margin-top:150px;
-    margin-left:800px;
+    margin-left:830px;
      border-bottom-color:black;
      border-bottom-width:2px;
      border-bottom-style: solid;
@@ -58,11 +59,17 @@ h5{
     font-size:2em;
     display:inline;
     margin-top:150px;
-    margin-left:1300px;
+    margin-left:1350px;
      border-bottom-color:black;
      border-bottom-width:2px;
      border-bottom-style: solid;
 
+}
+h6{
+    position:absolute;
+    font-size:1em;
+    margin-top:350px;
+    margin-left:1350px;
 }
 
 a {
