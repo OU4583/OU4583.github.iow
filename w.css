@@ -20,6 +20,19 @@ body {
     border-radius: 50%;
     border:10px solid#fff;
 }
+.images{
+    width:100%;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+
+}
+.images img{
+    height:100px;
+    width:100px;
+    border-radius: 50%;
+    border:10px solid#fff;
+}
 
 p {
     font-size: 1em;
